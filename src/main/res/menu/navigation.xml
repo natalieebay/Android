@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_checklist"
+        android:icon="@drawable/ic_check_black_24dp"
+        android:title="@string/title_checklist"/>
+
+    <item
+        android:id="@+id/navigation_myplan"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/title_myplan"/>
+
+    <item
+        android:id="@+id/navigation_passwords"
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:title="@string/title_passwords"/>
+
+    <item
+        android:id="@+id/navigation_info"
+        android:icon="@drawable/ic_help_black_24dp"
+        android:title="@string/title_info"/>
+
+</menu>
